@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.RunTime_AppIconChanges" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.RunTime_AppIconChanges" parent="Base.Theme.RunTime_AppIconChanges" />
+</resources>
